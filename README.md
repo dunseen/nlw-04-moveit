@@ -1,12 +1,26 @@
 <p align="center">
+	<img src="public/logo-full.svg" alt="Moveit Banner" />
+<p>
 
-![Moveit Banner](public/logo-full.svg?raw=true "Title")
 
+<p>🔗 Plataforma que ajuda pessoas a serem mais "ativas", com uma dinâmica incrivél de desafios, "xp", level e até mesmo Ranking !<p>
+
+-----------------------------------------------------------------
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>	
+	
 </p>
+
 
 <h4 align="center"> 
 	🚧  Login com Github em construção 🚀 Em construção...  🚧
 </h4>
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -42,3 +56,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
