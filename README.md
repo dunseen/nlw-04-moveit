@@ -1,4 +1,4 @@
-![Moveit Banner](relative/path/to/logo-full.svg?raw=true "Title")
+![Moveit Banner](public/logo-full.svg?raw=true "Title")
 
 <h4 align="center"> 
 	🚧  Login com Github em construção 🚀 Em construção...  🚧
