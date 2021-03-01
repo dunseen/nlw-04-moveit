@@ -1,4 +1,8 @@
+<p align="center">
+
 ![Moveit Banner](public/logo-full.svg?raw=true "Title")
+
+</p>
 
 <h4 align="center"> 
 	🚧  Login com Github em construção 🚀 Em construção...  🚧
